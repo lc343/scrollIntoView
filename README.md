@@ -1,6 +1,6 @@
 # scrollIntoView()方法
 
-scrollIntoView1.html
+
 scrollIntoView(true);//将调用元素的顶部与视口顶部平齐
 
 nav.html 
